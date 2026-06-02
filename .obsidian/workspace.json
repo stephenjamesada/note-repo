@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ac45da15b1b3c967",
+    "type": "split",
+    "children": [
+      {
+        "id": "2568f239f91999cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f489687e791838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29517bc9225887fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac38b0aa224a03bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9438f71dd2e79167",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5fdb61a04bc1854d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4181a4f0d8791680",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ded117dd301cd707",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3bf21b55a48f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073250687d70207f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Version Control with Git/Our First Repository/DevOps & Git in a Nutshell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DevOps & Git in a Nutshell"
+            }
+          },
+          {
+            "id": "e84e6176f6b611bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Version Control with Git/Our First Repository/DevOps & Git in a Nutshell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DevOps & Git in a Nutshell"
+            }
+          },
+          {
+            "id": "d947f4fb740ac93d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c9378372d5881ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          },
+          {
+            "id": "dd90c2dcb9ccf212",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a1f489687e791838",
+  "lastOpenFiles": [
+    "Git/Lesson 1.md",
+    "Git/Git.md",
+    "Index.md",
+    "Bash/Bash.md",
+    "C/C.md",
+    "C++/C++.md",
+    "Python/Python.md",
+    "Bash",
+    "Git",
+    "Python",
+    "C++",
+    "C",
+    "www.learncpp.com.md",
+    "learncpp.com.md",
+    "C Programming for Everybody/C Programming for Everybody.md",
+    "Version Control with Git/Version Control with Git.md",
+    "Python for Everybody/Python for Everybody.md",
+    "C++ for C Programmers/C++ for C Programmers.md",
+    "C Programming for Everybody/Building Objects in C/Building Objects in C.md",
+    "C++ for C Programmers/Part B/Part B.md",
+    "C++ for C Programmers/Part A/Part A.md",
+    "Examples/Examples.md",
+    "Examples/Python/Python.md",
+    "Examples/Git/Git.md",
+    "Examples/C++/C++.md",
+    "Examples/C/C.md",
+    "Python for Everybody/Using Python to Access Web Data/Using Python to Access Web Data.md",
+    "Python for Everybody/Using Databases with Python/Using Databases with Python.md",
+    "Python for Everybody/Python Data Structures/Python Data Structures.md",
+    "Python for Everybody/Programming for Everybody (Getting Started with Python))/Programming for Everybody (Getting Started with Python)).md",
+    "Python for Everybody/Capstone - Retrieving, Processing, and Visualizing Data with Python/Capstone - Retrieving, Processing, and Visualizing Data with Python.md",
+    "Examples/Git",
+    "Examples/C++",
+    "Examples/C",
+    "Examples/Python",
+    "Examples"
+  ]
+}
