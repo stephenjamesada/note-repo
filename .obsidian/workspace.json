@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ded117dd301cd707",
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1f489687e791838",
+  "active": "dd90c2dcb9ccf212",
   "lastOpenFiles": [
     "Git/Lesson 1.md",
     "Git/Git.md",
