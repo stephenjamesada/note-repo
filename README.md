@@ -1,7 +1,5 @@
 # Note Vault
 
----
-
 ## Subjects Covered
 
 - Bash
