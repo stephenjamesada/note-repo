@@ -1,2 +1,15 @@
 .obsidian
-.un~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Swap, undo, and backup files
+*.un~
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+*.log
