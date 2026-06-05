@@ -7,6 +7,9 @@
 - **Python**
 - **Git**
 - **Bash**
+- **Vim**
+- **DSA**
+
 ---
 ## Resources
 
@@ -17,6 +20,7 @@
 - [Automate the Boring Stuff with Python](https://inventwithpython.com/automate3workbook/)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [The Linux Command Line](https://kea.nu/files/textbooks/humblesec/thelinuxcommandline.pdf)
+- [Grokking Algorithms](https://muugumuugu.github.io/bOOkshelF/generative%20art/Grokking%20Algorithms.pdf)
 ### Courses
 
 - [Learn C Programming and OOP](https://youtu.be/PaPN51Mm5qQ?si=4uppdzs8wDMjVMkp)
@@ -24,6 +28,10 @@
 - [Python for Everybody](https://youtu.be/8DvywoWv6fI?si=tTSvmhf6YS0fPT9Z)
 - [Git and GitHub for Beginners](https://youtu.be/mAFoROnOfHs?si=G40SRfott7I_BpUr)
 - [Bash Scripting](https://youtu.be/Sx9zG7wa4FA?si=ANJChC5d5N95uVc8)
+### Misc.
+
+- `vimtutor`
+- [Vim Adventures](https://vim-adventures.com)
 
 ---
 
@@ -31,9 +39,11 @@
 
 - [Git](Git)
 - [Bash](Bash)
+- [Vim](Vim)
 - [Python](Python)
 - [C](C)
 - [C++](C++)
+- [DSA](DSA)
 
 > *These subjects should be tackled daily in the order above, for better context switching.*
 
