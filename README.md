@@ -4,11 +4,13 @@
 
 - Bash
 - C
-- C++
+- Linux
 - Python
 - Git
 - Vim
-- DSA
-## Goals
+- Networking
 
-1. To learn consistently from each subject, while also strengthening Git fundamentals, by using Git to backup this vault
+## Repository Notes
+
+The Bash folder covers how to *control* the system.
+The Linux folder tells you how the system *works*.

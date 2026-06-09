@@ -44,6 +44,6 @@ If you don't know one of, or either of those names, you can grab the link from t
 
 `git add`: Adds, or *stages* any files in your working directory that you specify to the staging area. `git add .` stages all changes within the current directory and everything in it, including subdirectories. For example, `git add README.md` only stages a README and its changes, and nothing else. `git add --all` or `-A` accounts for the entire repo. `git add *` stages every change visible, excluding deleted ones. Can stage by file extension as well via wildcard (`*.txt`).
 
-`git reset`: Resets the staging area, so everything that was staged before this command was run is now unstaged, and does not touch your working directory. When executed, it shows you all unstaged changes after the reset.
+`git reset`: Resets the staging area, so everything that was staged before this command was run is now unstaged, and does not touch your working directory. When executed, it shows you all unstaged changes after the reset. Does not bring back deleted files.
 
 `git commit`: Tells Git to save all staged changes permanently. The `-m` flag stands for message, used to give a description for your changes. For example `git commit -m "Removed semantic content from document.txt and replaced with overall summary"`.
